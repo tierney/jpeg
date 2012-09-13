@@ -13,3 +13,14 @@
 
 .cproject
 .project
+
+.libs/
+Makefile
+cjpeg
+config.log
+config.status
+djpeg
+jpegtran
+libtool
+rdjpgcom
+wrjpgcom
